@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         Slither.io Pro Bot
-// @namespace    https://github.com/xzendercage/slitherbot
+// @namespace    https://github.com/lorencoomersaas/slitherbot
 // @version      1.0.0
 // @description  Slither.io Pro Bot
 // @author       Xzender Cage
-// @match        http://slither.io/
-// @updateURL    https://github.com/xzendercage/slitherbot/raw/master/bot.user.js
-// @downloadURL  https://github.com/xzendercage/slitherbot/raw/master/bot.user.js
-// @supportURL   https://github.com/xzendercage/slitherbot/issues
+// @match        http://slither.com/io
+// @updateURL    https://github.com/lorencoomersaas/slitherbot/raw/master/bot.user.js
+// @downloadURL  https://github.com/lorencoomersaas/slitherbot/raw/master/bot.user.js
+// @supportURL   https://github.com/lorencoomersaas/slitherbot/issues
 // @grant        none
 // ==/UserScript==
 
